@@ -1,0 +1,127 @@
+[
+      {
+        "status": "Current Winner",
+        "id": 1,
+        "name": "Football Club",
+        "founded": 1900,
+        "city": "Manchester",
+        "country": "England",
+        "stadium": "Old Trafford",
+        "colors": ["Red", "White"],
+        "achievements": ["Premier League", "UEFA Champions League"],
+        "players": ["Player 1", "Player 2", "Player 3"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      },
+      {
+        "status": "Current Winner",
+        "id": 2,
+        "name": "Basketball Club",
+        "founded": 1975,
+        "city": "Los Angeles",
+        "country": "USA",
+        "arena": "Staples Center",
+        "colors": ["Purple", "Gold"],
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "players": ["Player A", "Player B", "Player C"],
+        "logo": "https://img.freepik.com/free-vector/football-team-club-flat-labels-set_74855-6471.jpg?w=740&t=st=1692966144~exp=1692966744~hmac=9f222852a1755916b7e9dff8f7111eb5ec28c74355b83e9def5ef57cf4cb3755"
+      },
+      {
+        "status": "Current Winner",
+        "id": 3,
+        "name": "Tennis Club",
+        "founded": 1960,
+        "city": "Paris",
+        "country": "France",
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "court_type": "Clay",
+        "players": ["Player X", "Player Y"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      },
+      {
+        "status": "Current Winner",
+        "id": 4,
+        "name": "Cricket Club",
+        "founded": 1923,
+        "city": "Mumbai",
+        "country": "India",
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "home_ground": "Wankhede Stadium",
+        "colors": ["Blue", "Gold"],
+        "players": ["Player P", "Player Q"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      },
+      {
+        "status": "Current Winner",
+        "id": 5,
+        "name": "Golf Club",
+        "founded": 1985,
+        "city": "Augusta",
+        "country": "USA",
+        "course_type": "18-Hole",
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "members": ["Member A", "Member B"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      },
+      {
+        "status": "Current Winner",
+        "id": 6,
+        "name": "Hockey Club",
+        "founded": 1950,
+        "city": "Toronto",
+        "country": "Canada",
+        "arena": "Maple Leaf Gardens",
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "colors": ["Blue", "White"],
+        "players": ["Player H", "Player J"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      },
+      {
+        "status": "Current Winner",
+        "id": 7,
+        "name": "Swimming Club",
+        "founded": 1978,
+        "city": "Sydney",
+        "country": "Australia",
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "pool_type": "Indoor",
+        "members": ["Swimmer 1", "Swimmer 2"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      },
+      {
+        "status": "Current Winner",
+        "id": 8,
+        "name": "Volleyball Club",
+        "founded": 1992,
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "court_type": "Beach",
+        "players": ["Player V", "Player W"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      },
+      {
+        "status": "Current Winner",
+        "id": 9,
+        "name": "Rugby Club",
+        "founded": 1970,
+        "city": "Auckland",
+        "country": "New Zealand",
+        "stadium": "Eden Park",
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "colors": ["Black", "White"],
+        "players": ["Player R", "Player S"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      },
+      {
+        "status": "Current Winner",
+        "id": 10,
+        "name": "Chess Club",
+        "founded": 1988,
+        "city": "Moscow",
+        "country": "Russia",
+        "achievements": ["NBA Championship", "Western Conference Title"],
+        "members": ["Player C1", "Player C2"],
+        "logo": "https://as2.ftcdn.net/v2/jpg/02/01/82/35/1000_F_201823500_p0JySbLO0XLNUm0ePQWG0Tszobh9I66y.jpg"
+      }
+    ]
+  
