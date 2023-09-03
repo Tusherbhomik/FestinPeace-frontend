@@ -20,17 +20,23 @@ export default function Router() {
         { element: <Navigate to="/dashboard/app" />, index: true },
         { path: 'app', element: <DashboardAppPage /> },
         { path: 'user', element: <UserPage /> },
-        { path: 'fests', element: <FestsPage /> },
+        {
+          path: 'fests',
+          element: <FestsPage />,
+        },
         { path: 'clubs', element: <ClubsPage /> },
         { path: 'blog', element: <BlogPage /> },
-        { path: 'festdetails/:festid', element: <FestDetailsPage /> }
-
+        {
+          path: 'festdetails/:festid',
+          element: <FestDetailsPage />
+        },
+        {
+          path: 'hello',
+          element: <h1>hello</h1>
+        }
       ],
     },
-    { path: 'clubs', element: <ClubsPage /> },
-    { path: 'festdetails/:festid', element: <FestDetailsPage /> },
     {
-      
       path: 'login',
       element: <LoginPage />,
     },

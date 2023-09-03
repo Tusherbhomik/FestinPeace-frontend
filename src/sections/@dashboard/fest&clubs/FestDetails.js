@@ -26,7 +26,7 @@ function FestDetails() {
   }
 
   return (
-    <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
+    <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh',backgroundColor:'cyan' }}>
       <Card sx={{ width: 800 }}>
         <CardMedia sx={{ height: 300 }} image={festival.image} title={festival.title} />
         <CardContent>

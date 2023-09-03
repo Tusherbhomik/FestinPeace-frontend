@@ -5,6 +5,7 @@ import { styled } from '@mui/material/styles';
 import Label from '../../../components/label';
 
 
+
 // ----------------------------------------------------------------------
 
 const StyledProductImg = styled('img')({
@@ -21,13 +22,11 @@ showFestCard.propTypes = {
   fest: PropTypes.object,
 };
 
-export default function showFestCard({ fest, path }) {
-  const { title, image, duration, location, platinumSponsor,status, organizedBy } = fest;
-  
+export default function showFestCard({ fest}) {
+  const { title, image, duration, location, platinumSponsor,status, organizedBy ,id, path} = fest;
   
   return (
-    <Card component={RouterLink}
-    to={path}>
+    <Card component={RouterLink} to={`/dashboard/festdetails/${id}`}>
       <Box sx={{ pt: '100%', position: 'relative' }}>
         {status && (
           <Label
